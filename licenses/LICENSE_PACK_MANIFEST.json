@@ -1,0 +1,36 @@
+{
+  "schema": "audion.build_licenses.pack_manifest.v1",
+  "generated_utc": "2026-10-12T15:23:59Z",
+  "run_id": "20261012T152359Z_audion-cars-counter_a4a1382f",
+  "project_id": "audion-cars-counter",
+  "project_name": "Audion Cars Counter",
+  "scan_root": ".",
+  "output_dir": "licenses",
+  "files": [
+    {
+      "name": "THIRD_PARTY_NOTICES.txt",
+      "sha256": "8625e462558a52572b9ce50970c4ffc0c1c388d5bb94578052fcadac4efe73b1",
+      "size": 256669
+    },
+    {
+      "name": "SOURCE_CODE_AVAILABILITY.txt",
+      "sha256": "e99d40ded2d6402f9b2c7a6dfe635a45671162bedba980417eb392aa2f87b3cf",
+      "size": 3899
+    },
+    {
+      "name": "COMPONENTS.json",
+      "sha256": "edf7d76fe252290db28571767e75496d872bfeb176035c4dbe492b0546a58b9c",
+      "size": 39161
+    },
+    {
+      "name": "_records.json",
+      "sha256": "0e565dc62408ac1234087305d34d8c8dc2e5e853617a8ab1738c184b4205de98",
+      "size": 10293
+    },
+    {
+      "name": "LICENSE_SCAN_REPORT.md",
+      "sha256": "a3b18e2de549a67cb5492695b4a2d52adaa9aa834012cd747f9cc4a1ac60fbb9",
+      "size": 2273
+    }
+  ]
+}
